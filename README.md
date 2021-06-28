@@ -20,7 +20,26 @@
 
 ---
 
-#### - Contactame
+### - Proyectos
+
+####  ***VISIT THE WORLD***
+##### Se trata de una App que consume datos de una API externa con información de todos los países del mundo. Permite filtrar por nombres, regiones o activides en ese páis, y ordenar por cantidad de población o superficie.
+
+<img alt=pi-countries-filtrate src=https://media.giphy.com/media/V0ZrRN6fgOCA68lyzX/giphy.gif />
+
+##### Contiene un formulario controlado para crear actividades turísticas que luego apareceran en el detalle del país en donde se la incluyó. Poner acá tenologías usadas.
+
+<img alt=pi-countries-add-activity src=https://media.giphy.com/media/Wj0EyTwjqVKtvl5HaL/giphy.gif />
+
+####  ***HENRY STORE (Próximamente)***
+
+##### Ecommerce de productos temáticos de Henry: catálogo de productos, search bar y filtrado, reviews, carrito, login y register, pasarela de pago (Mercadopago), dashboard admin con form para carga de productos.
+
+<img alt=henrystore src= />
+
+---
+
+### - Contactame
 
 <div >
 <a href="mailto:fjgoyretsola@gmail.com" ><img width="3%" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/gmail_logo_icon.png"> fjgoyretsola@gmail.com &nbsp;
