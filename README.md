@@ -26,7 +26,7 @@
 <a href="mailto:fjgoyretsola@gmail.com" ><img width="3%" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/gmail_logo_icon.png"> fjgoyretsola@gmail.com &nbsp;
 </div>
 <div >
-<a href="https://www.linkedin.com/in/josuegoyret/" ><img width="3%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> linkedin.com/in/josuegoyret/ &nbsp;
+<a href="https://www.linkedin.com/in/josuegoyret/" ><img width="3%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> www.linkedin.com/in/josuegoyret/ &nbsp;
 </div>
 
 <!---
