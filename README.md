@@ -35,7 +35,9 @@
 
 #### Ecommerce de productos temáticos de Henry: catálogo de productos, search bar y filtrado, reviews, carrito, login y register, pasarela de pago (Mercadopago), dashboard admin con form para carga de productos.
 
-<img alt=henrystore src= />
+<div align=center>
+<img width=30% alt=henrystore src=https://res.cloudinary.com/daau4qgbu/image/upload/v1624931567/placeholder_tsa8ue.png />
+</div>
 
 ---
 
