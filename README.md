@@ -29,7 +29,7 @@
 
 ##### Contiene un formulario controlado para crear actividades turísticas que luego apareceran en el detalle del país en donde se la incluyó. Poner acá tenologías usadas.
 
-<img alt=pi-countries-add-activity src=https://media.giphy.com/media/Wj0EyTwjqVKtvl5HaL/giphy.gif />
+<img alt=pi-countries-add-activity src=https://media.giphy.com/media/TtbHunRpOWyosRkApW/giphy.gif />
 
 ####  ***HENRY STORE (Próximamente)***
 
