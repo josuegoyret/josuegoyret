@@ -27,7 +27,7 @@
 
 <img alt=pi-countries-filtrate src=https://media.giphy.com/media/V0ZrRN6fgOCA68lyzX/giphy.gif />
 
-#### Contiene un formulario controlado para crear actividades turísticas que luego apareceran en el detalle del país en donde se la incluyó. En el Front se utilió React y Redux como state maneger, en el Back NodeJS implementado con Express, y para la base de datos Sequelize.
+#### Contiene un formulario controlado para crear actividades turísticas que luego apareceran en el detalle del país en donde se la incluyó. En el Front se utilió React y Redux como state manager, en el Back NodeJS implementado con Express, y para la base de datos Sequelize.
 
 <img alt=pi-countries-add-activity src=https://media.giphy.com/media/TtbHunRpOWyosRkApW/giphy.gif />
 
