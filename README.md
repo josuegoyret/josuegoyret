@@ -2,7 +2,7 @@
 
 # ¡Hola!
 
-##### Mi nombre es Josué, soy de Salta (Argentina) y tengo 25 años. Ingeniero Industrial y Full Stack Developer, de ambas partes heredé la pasión por resolver problemas. Me gusta cantar y tocar la guitarra.
+#### Mi nombre es Josué, soy de Salta (Argentina) y tengo 25 años. Ingeniero Industrial y Full Stack Developer, de ambas partes heredé la pasión por resolver problemas. Me gusta cantar y tocar la guitarra.
 
 ---
 
@@ -20,26 +20,26 @@
 
 ---
 
-### - Proyectos
+## - Proyectos
 
-####  ***VISIT THE WORLD***
-##### Se trata de una App que consume datos de una API externa con información de todos los países del mundo. Permite filtrar por nombres, regiones o activides en ese páis, y ordenar por cantidad de población o superficie.
+###  ***VISIT THE WORLD***
+#### Se trata de una App que consume datos de una API externa con información de todos los países del mundo. Permite filtrar por nombres, regiones o activides en ese páis, y ordenar por cantidad de población o superficie.
 
 <img alt=pi-countries-filtrate src=https://media.giphy.com/media/V0ZrRN6fgOCA68lyzX/giphy.gif />
 
-##### Contiene un formulario controlado para crear actividades turísticas que luego apareceran en el detalle del país en donde se la incluyó. En el Front se utilió React y Redux como state maneger, en el Back NodeJS implementado con Express, y para la base de datos Sequelize.
+#### Contiene un formulario controlado para crear actividades turísticas que luego apareceran en el detalle del país en donde se la incluyó. En el Front se utilió React y Redux como state maneger, en el Back NodeJS implementado con Express, y para la base de datos Sequelize.
 
 <img alt=pi-countries-add-activity src=https://media.giphy.com/media/TtbHunRpOWyosRkApW/giphy.gif />
 
-####  ***HENRY STORE (Próximamente)***
+###  ***HENRY STORE (Próximamente)***
 
-##### Ecommerce de productos temáticos de Henry: catálogo de productos, search bar y filtrado, reviews, carrito, login y register, pasarela de pago (Mercadopago), dashboard admin con form para carga de productos.
+#### Ecommerce de productos temáticos de Henry: catálogo de productos, search bar y filtrado, reviews, carrito, login y register, pasarela de pago (Mercadopago), dashboard admin con form para carga de productos.
 
 <img alt=henrystore src= />
 
 ---
 
-### - Contactame
+## - Contactame
 
 <div >
 <a href="mailto:fjgoyretsola@gmail.com" ><img width="3%" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/gmail_logo_icon.png"> fjgoyretsola@gmail.com &nbsp;
