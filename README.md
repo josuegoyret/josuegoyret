@@ -22,23 +22,35 @@
 
 ## - Proyectos
 
+###  ***HENRY STORE***
+
+#### Ecommerce de productos temáticos de Henry:
+- Catálogo de productos
+- Search bar dinámica
+- Filtrado por categorías, subcategorías, color, rango de precios, talles, etc.
+- Reviews de un producto
+- Carrito de compras
+- Login y register
+- Pasarela de pago (Mercadopago)
+- Dashboard de admin para gestión
+
+<div align=center>
+<img alt=henrystore src=https://media.giphy.com/media/KVz8nOm3mhWC3UbZAF/giphy.gif />
+</div>
+
 ###  ***VISIT THE WORLD***
 #### Se trata de una App que consume datos de una API externa con información de todos los países del mundo. Permite filtrar por nombres, regiones o activides en ese páis, y ordenar por cantidad de población o superficie.
 
+<div align=center>
 <img alt=pi-countries-filtrate src=https://media.giphy.com/media/V0ZrRN6fgOCA68lyzX/giphy.gif />
-
+</div>
+  
 #### Contiene un formulario controlado para crear actividades turísticas que luego apareceran en el detalle del país en donde se la incluyó. En el Front se utilió React y Redux como state manager, en el Back NodeJS implementado con Express, y para la base de datos Sequelize.
 
-<img alt=pi-countries-add-activity src=https://media.giphy.com/media/TtbHunRpOWyosRkApW/giphy.gif />
-
-###  ***HENRY STORE (Próximamente)***
-
-#### Ecommerce de productos temáticos de Henry: catálogo de productos, search bar y filtrado, reviews, carrito, login y register, pasarela de pago (Mercadopago), dashboard admin con form para carga de productos.
-
 <div align=center>
-<img width=30% alt=henrystore src=https://res.cloudinary.com/daau4qgbu/image/upload/v1624931567/placeholder_tsa8ue.png />
-</div>
-
+<img alt=pi-countries-add-activity src=https://media.giphy.com/media/TtbHunRpOWyosRkApW/giphy.gif />
+<div/>
+  
 ---
 
 ## - Contactame
