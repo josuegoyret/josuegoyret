@@ -1,66 +1,30 @@
+## Hello! This is Jo👋
+
+<p style="font-size: 1.15rem; margin: 2rem 0">Full Stack Developer with a stronger focus on the Front End. Passionate about making significant differences with small details. Always curious about learning new things! I enjoy reading, playing the guitar, and singing. An athlete in calisthenics and a beginner in weightlifting. 📚🤸🏻🏋🏻️.</p>
+
+---
+
+### Some facts about me
+
+- 🤓 Full Stack Developer at [Way Too Digital](https://www.linkedin.com/company/way-too-digital/)
+- 🆙 In my free time I'm currently learning investing, weightlifting and *how to be a father 101*🤣
+- 🏆 2024 Goals (some of them):
+  - Improve scalability, performance and security best practices
+  - Explore the startups world and learn about product
+  - Squat 1.75 times my own weight
+  - Move to a new place
+  - Read at least 6 books
+- 🔎 Favorite tools: JavaScript, React.js, Next.js, TypeScript, Node.js
+- 🙌🏻 Cooming soon **Ambassadoria** (side project)
+
+<br />
+<br />
+
+_P.S.: If you’d like to talk, [drop me a message](mailto:josuegoyret@gmail.com) or [see my profile](https://www.linkedin.com/in/josuegoyret/) for more details!😀_
+
+_P.S. 2: Leave you an image of one of my favorite places..._
+
 ![Todo tiene arreglo en la vida / Fondo: La Lagunilla, Salta - Argentina](https://res.cloudinary.com/daau4qgbu/image/upload/v1624896504/banner_frase_SJM_tama%C3%B1o_linkedin_s4wnel.gif)
-
-# ¡Hola!
-
-#### Mi nombre es Josué, soy de Salta (Argentina) y tengo 25 años. Ingeniero Industrial y Full Stack Developer, de ambas partes heredé la pasión por resolver problemas. Me gusta cantar y tocar la guitarra.
-
----
-
-<div align="center">
-<img  width=10% alt=javascript src=https://i.ibb.co/vxZcqxs/Dise-o-sin-t-tulo-9.png />
-<img  width=10% alt=css src=https://i.ibb.co/7khWBK8/Dise-o-sin-t-tulo-8.png />
-<img  width=10% alt=html src=https://i.ibb.co/B2CJCXx/Dise-o-sin-t-tulo-4.png />
-<img  width=10% alt=react src=https://i.ibb.co/gyYwYcY/Dise-o-sin-t-tulo-2.png />
-<img  width=10% alt=redux src=https://i.ibb.co/8NJnYHX/Dise-o-sin-t-tulo-7.png />
-<img  width=10% alt=node src=https://i.ibb.co/9Wxdzmf/Dise-o-sin-t-tulo-6.png />
-<img  width=10% alt=express src=https://i.ibb.co/Lg8mKWG/Dise-o-sin-t-tulo-10.png />
-<img  width=10% alt=postgresql src=https://i.ibb.co/PMg8Btn/Dise-o-sin-t-tulo-3.png />
-<img  width=10% alt=sequelize src=https://i.ibb.co/NY9Qn2Q/Dise-o-sin-t-tulo-5.png />
-</div>
-
----
-
-## - Proyectos
-
-###  ***HENRY STORE***
-
-#### Ecommerce de productos temáticos de Henry:
-- Catálogo de productos
-- Search bar dinámica
-- Filtrado por categorías, subcategorías, color, rango de precios, talles, etc.
-- Reviews de un producto
-- Carrito de compras
-- Login y register
-- Pasarela de pago (Mercadopago)
-- Dashboard de admin para gestión
-
-<div align=center>
-<img alt=henrystore src=https://media.giphy.com/media/KVz8nOm3mhWC3UbZAF/giphy.gif />
-</div>
-
-###  ***VISIT THE WORLD***
-#### Se trata de una App que consume datos de una API externa con información de todos los países del mundo. Permite filtrar por nombres, regiones o activides en ese páis, y ordenar por cantidad de población o superficie.
-
-<div align=center>
-<img alt=pi-countries-filtrate src=https://media.giphy.com/media/V0ZrRN6fgOCA68lyzX/giphy.gif />
-</div>
-  
-#### Contiene un formulario controlado para crear actividades turísticas que luego apareceran en el detalle del país en donde se la incluyó. En el Front se utilió React y Redux como state manager, en el Back NodeJS implementado con Express, y para la base de datos Sequelize.
-
-<div align=center>
-<img alt=pi-countries-add-activity src=https://media.giphy.com/media/TtbHunRpOWyosRkApW/giphy.gif />
-<div/>
-  
----
-
-## - Contactame
-
-<div >
-<a href="mailto:fjgoyretsola@gmail.com" ><img width="3%" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/gmail_logo_icon.png"> fjgoyretsola@gmail.com &nbsp;
-</div>
-<div >
-<a href="https://www.linkedin.com/in/josuegoyret/" ><img width="3%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> www.linkedin.com/in/josuegoyret/ &nbsp;
-</div>
 
 <!---
 josuegoyret/josuegoyret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
