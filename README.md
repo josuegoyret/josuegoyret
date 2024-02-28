@@ -1,6 +1,6 @@
 ## Hello! This is Jo👋
 
-<p style="font-size: 1.15rem; margin: 2rem 0">Full Stack Developer with a stronger focus on the Front End. Passionate about making significant differences with small details. Always curious about learning new things! I enjoy reading, playing the guitar, and singing. An athlete in calisthenics and a beginner in weightlifting. 📚🤸🏻🏋🏻️.</p>
+Full Stack Developer with a stronger focus on the Front End. Passionate about making significant differences with small details. Always curious about learning new things! I enjoy reading, playing the guitar, and singing. An athlete in calisthenics and a beginner in weightlifting. 📚🤸🏻🏋🏻️.
 
 ---
 
