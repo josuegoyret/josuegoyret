@@ -7,7 +7,7 @@ Full Stack Developer with a stronger focus on the Front End. Passionate about ma
 ### Some facts about me
 
 - 🤓 Full Stack Developer at [Way Too Digital](https://www.linkedin.com/company/way-too-digital/)
-- 🆙 In my free time I'm currently learning investing, weightlifting and *how to be a father 101*🤣
+- 🆙 In my free time I'm currently learning investing, weightlifting and *fatherhood 101*🤣
 - 🏆 2024 Goals (some of them):
   - Improve scalability, performance and security best practices
   - Explore the startups world and learn about product
